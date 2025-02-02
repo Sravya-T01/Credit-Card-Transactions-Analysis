@@ -41,11 +41,10 @@ The following SQL queries were used to analyze the data and answer various busin
    - Identifies the cities with the highest spending and their percentage contribution to total spending.
 
 2. Highest Spent Month and Amount for Each Card Type
-  - Finds the month with the highest spending for each card type and the total amount spent.
+   - Finds the month with the highest spending for each card type and the total amount spent.
 
-3. Transaction Details for Cumulative Spend of 1 Million for Each Card Type
-
-  - Retrieves transaction details for each card type when cumulative spending reaches 1 million.
+4. Transaction Details for Cumulative Spend of 1 Million for Each Card Type
+   - Retrieves transaction details for each card type when cumulative spending reaches 1 million.
 
 4. City with Lowest Percentage Spend for Gold Card Type
 
