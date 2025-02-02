@@ -43,32 +43,26 @@ The following SQL queries were used to analyze the data and answer various busin
 2. Highest Spent Month and Amount for Each Card Type
    - Finds the month with the highest spending for each card type and the total amount spent.
 
-4. Transaction Details for Cumulative Spend of 1 Million for Each Card Type
+3. Transaction Details for Cumulative Spend of 1 Million for Each Card Type
    - Retrieves transaction details for each card type when cumulative spending reaches 1 million.
 
 4. City with Lowest Percentage Spend for Gold Card Type
+   - Finds the city with the lowest percentage of spending for gold cardholders.
 
-  - Finds the city with the lowest percentage of spending for gold cardholders.
-
-5. Highest and Lowest Expense Types in Each City
-
-  - Analyzes the highest and lowest expense types in each city.
+6. Highest and Lowest Expense Types in Each City
+   - Analyzes the highest and lowest expense types in each city.
 
 6. Percentage Contribution of Spends by Females for Each Expense Type
+   - Calculates the percentage of total spending by females for each expense type.
 
-  - Calculates the percentage of total spending by females for each expense type.
-
-7. Highest Month-over-Month Growth in Spending (Jan 2014 vs Dec 2013)
-
-  - Identifies the card and expense type combination with the highest month-over-month growth in January 2014 compared to December 2013.
+8. Highest Month-over-Month Growth in Spending (Jan 2014 vs Dec 2013)
+   - Identifies the card and expense type combination with the highest month-over-month growth in January 2014 compared to December 2013.
 
 8. City with Highest Spend-to-Transaction Ratio During Weekends
+   - Finds the city with the highest ratio of total spend to total transactions on weekends.
 
-  - Finds the city with the highest ratio of total spend to total transactions on weekends.
-
-9. City with the Least Number of Days to Reach 500th Transaction
-
-  - Identifies which city took the least number of days to reach its 500th transaction after the first transaction.
+10. City with the Least Number of Days to Reach 500th Transaction
+    - Identifies which city took the least number of days to reach its 500th transaction after the first transaction.
 
 ## Technologies Used
 
